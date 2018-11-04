@@ -4,8 +4,6 @@ var a, b, result;
 function setvalues() {
     a = Number(document.getElementById("formGroupExampleInput").value)
     b = Number(document.getElementById("formGroupExampleInput2").value);
-
-
 }
 
 function checkvalidation(){
@@ -80,8 +78,3 @@ function div(num1, num2) {
     alert("The division operation is equal to " + result);
 }
 
-function Reset(a, b) {
-    setvalues();
-    document.getElementById("formGroupExampleInput").value = "";
-    document.getElementById("formGroupExampleInput2").value = "";
-}
