@@ -82,6 +82,6 @@ function div(num1, num2) {
 
 function Reset(a, b) {
     setvalues();
-    document.getElementById("a").value = "";
-    document.getElementById("b").value = "";
+    document.getElementById("formGroupExampleInput").value = "";
+    document.getElementById("formGroupExampleInput2").value = "";
 }
