@@ -15,7 +15,7 @@ function checkvalidation(){
         return true
     }
     else if(value1 === ""){
-        document.querySelector('#formGroupExampleInput1') ? document.querySelector('#formGroupExampleInput1').setCustomValidity("This field cannot be empty"): ''
+        document.querySelector('#formGroupExampleInput2') ? document.querySelector('#formGroupExampleInput2').setCustomValidity("This field cannot be empty"): ''
         return true
     }
     return false
