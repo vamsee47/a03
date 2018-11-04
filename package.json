@@ -9,7 +9,7 @@
         "body-parser": "latest",
         "ejs": "latest"
     },
-    "scripts":{
+    "scripts": {
         "start": "node app.js"
     },
     "author": "Denise Case",
