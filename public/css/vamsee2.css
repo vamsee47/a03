@@ -1,0 +1,78 @@
+body{
+    padding-top: 60px;
+  padding-bottom: 10px;
+   background-image: url("palin.JPG");
+   background-size: 100%;
+   background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  position: relative;
+  
+  
+  }
+  #class1{
+text-align: center;
+
+  }
+
+header{
+    color:blue;
+    
+  
+
+}
+.section-header{
+    color: rgb(20, 19, 19);
+    font-size:25px;
+    
+}
+article{
+    background-color: transparent;  
+}
+#para1{
+    color:rgb(47, 255, 210);
+    font-size:18px;
+    background-color: transparent;
+}
+#para2{
+    color:rgb(47, 255, 210);
+    
+    font-size:18px;
+    background-color: transparent;
+}
+#para3{
+    color:rgb(255, 165, 47);
+    font-size:18px;
+    background-color: transparent;
+}
+
+ol li{
+    background-color: transparent;
+    margin:4px;
+    padding:18px;
+    color:pink;
+    
+    font-size: 15px;
+}
+.aside-header{
+    font-size: 21px;
+    background-color: transparent;
+}
+#para4{
+    background: transparent;
+    color:greenyellow;
+    font-size: 15px;
+}
+
+.myfooter{
+    background-color: transparent;
+    color:red;
+    font-size:15px;
+}
+.img-circle {
+    
+    border-radius: 75%;
+     
+    
+}
+

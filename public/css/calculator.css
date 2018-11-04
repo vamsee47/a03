@@ -1,0 +1,22 @@
+body{
+padding-top: 60px;
+padding-bottom: 10px;
+ background-image: url("/css/palin.jpg");
+ background-size: 100%;
+ background-position: center;
+background-repeat: no-repeat;
+background-size: cover;
+position: relative;
+
+
+}
+.form-group{
+width: 300px;
+position: relative;
+text-align: center;
+
+}
+li {
+  text-align: left;
+  font-size: 1em;
+}
